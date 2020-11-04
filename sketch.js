@@ -5,6 +5,7 @@ var playerCount;
 var allPlayers;
 var distance = 0;
 var database;
+var playerRANK;
 
 var form, player, game;
 
@@ -42,6 +43,5 @@ function draw(){
 
   game.end();
   
-
   }
 }
